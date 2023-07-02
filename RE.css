@@ -1,0 +1,286 @@
+/* .navbar.navbar-expand-lg{
+    background-color:black;
+} */
+#RE{
+    width: 201px;
+}
+#indianflag{
+    width: 30px;
+    height: 20px;
+}
+#login{
+    margin-left: 100px;
+}
+#CardsSection{
+    background-color:#212121;
+    color: white;
+}
+#CardsSection #news{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+#CardsSection #Cards{
+    display: flex;
+}
+#CardsSection #Cards div{
+    width: 25%;
+    overflow: hidden;
+    height: 209px;
+}
+#CardsSection #Cards div img{
+    width: 100%;
+
+}
+#CardsSection #Cards div p{
+    position: relative;
+    bottom: 73px;
+    padding-left: 17px;
+    font-weight: 700;
+}
+#CardsSection #Cards div img:hover{
+    transform: scale(1.1);
+    transition: 2s; 
+
+}
+#Motorcycles {
+    display: flex;
+    background-color: #212121;
+    color: white;
+}
+#Motorcycles h3{
+    margin-left: 41px;
+    padding-top: 8px;
+    font-weight: 650;
+    font-size: 21px;
+}
+
+#Motorcycles ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    padding-top: 9px;
+    gap: 20px;
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: 19px;
+ 
+}
+.hover:hover{
+     color: red;
+     cursor: pointer;
+}
+/* #ImageSection {
+    width: 100%;
+} */
+#ImageSection img{
+    width: 100%;
+}
+#Rides{
+    display: flex;
+    background-color: #212121;
+    color: white;   
+}
+#Rides h3{
+    margin-left: 41px;
+    padding-top: 8px;
+    font-weight: 650;
+    font-size: 21px;
+}
+#Rides ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    padding-top: 9px;
+    gap: 20px;
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: 19px;
+}
+#ImageSection1 img{
+    width: 100%;
+}
+#Apparel{
+    display: flex;
+    background-color: #212121;
+    color: white;   
+}
+#Apparel h3{
+    margin-left: 41px;
+    padding-top: 8px;
+    font-weight: 650;
+    font-size: 21px;
+}
+#Apparel ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    padding-top: 9px;
+    gap: 20px;
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: 19px;
+}
+#ImageSection2 img{
+    width: 100%;
+}
+#Accessories{
+    display: flex;
+    background-color: #212121;
+    color: white;   
+}
+#Accessories h3{
+    margin-left: 41px;
+    padding-top: 8px;
+    font-weight: 650;
+    font-size: 21px;   
+}
+#Accessories ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    padding-top: 9px;
+    gap: 20px;
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: 19px;
+}
+#ImageSection3 img{
+    width: 100%;
+}
+#LocateUS{
+    display: flex;
+    background-color: #212121;
+    color: white;      
+}
+#LocateUS h3{
+    margin-left: 41px;
+    padding-top: 8px;
+    font-weight: 650;
+    font-size: 21px;    
+}
+#LocateUS ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    padding-top: 9px;
+    gap: 20px;
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: 19px;   
+}
+#ImageSection4 img{
+    width: 100%;
+}
+#PopularTags{
+    background-color: #212121;
+    color: white;         
+}
+#PopularTags h3{
+   align-items: center;
+   text-align: center;
+    font-weight: 650;
+    font-size: 21px;       
+    padding-bottom: 9px;
+    padding-top: 9px;
+}
+/* #PopularTags #carouselExampleSlidesOnly{
+    display: flex;
+} */
+#FooterSection{
+    background-color: #212121;
+    color: white;        
+}
+#FooterSection #div1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 249px;
+    padding-top: 69px;
+    font-size: 41px;
+
+
+}
+#FooterSection #div2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 20px;
+    
+}
+#FooterSection #div2 #One{
+    position: relative;
+    left: -243px;
+    font-size: 18px;
+    padding-top: 13px;
+}
+#FooterSection #div2 #Two{
+    position: relative;
+    right: 92px;
+    font-size: 18px;
+    padding-top: 13px;
+}
+#FooterSection #div2 #Three{
+    position: relative;
+    right: -97px;
+    font-size: 18px;
+    padding-top: 13px;
+}
+
+#FooterSection #div2 #Four{
+    position: relative;
+    left: 268px;
+    font-size: 18px;
+    padding-top: 13px;
+}
+#SocialSection{
+    background-color: #e5e3e3;
+} 
+#SocialSection #Social1{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    gap: 24px;
+    padding-right: 52px;
+    font-size: 26px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    border-bottom: 1.5px solid #c9c9c9;
+    display: flex;
+   
+}
+#SocialSection #Social2{
+    display: flex;
+    
+}
+
+#SocialSection h5{
+    padding-left: 28px;
+    padding-top: 40px;
+    gap: 10px;
+}
+#SocialSection ul{
+    list-style: none;
+    padding-left: 28px;
+    padding-top: 10px;
+    
+}
+#SocialSection ul li{
+    padding-top: 6px;
+    font-size: 14px;
+    font-weight: 500;
+}
+/* #SocialSection #Social2 table {
+    border: 2px solid black;
+} */
+#SocialSection #Social2 table tr th{
+    padding-left: 69px;
+    padding-top: 40px;
+}
+#SocialSection #Social2 table td{
+    padding-left: 69px;
+    font-size: 13px;
+    padding-top: 10px;
+    font-weight: 500;
+}
